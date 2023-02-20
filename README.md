@@ -26,5 +26,5 @@ Steadily growing into backend development and recently into Jamstack.
 
 ## 📈 Stats
   
-<img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir04&theme=darcula&hide_border=true&background=FFFFFF00">
+<img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir04&theme=tokyonight">
 
