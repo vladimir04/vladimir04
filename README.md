@@ -8,6 +8,14 @@ Curious by nature and always eager to explore new technologies. Believer in clea
 
 Steadily growing into fullstack development and recently into Jamstack. 
 
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,angular,html,css,tailwind,jest,git)](https://skillicons.dev) 
+ 
+## 🌎 Connect with me
+
+<a href="https://www.linkedin.com/in/vladimir-vancea-94803b75/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+
 ## 🤓 More About Me
 
 - 🗺️ Lived in 3 different countries and travelled to more than 30
@@ -15,10 +23,6 @@ Steadily growing into fullstack development and recently into Jamstack.
 - 💬 Ask me about Web Development
 - 📖 Learning about system design and Node.js
 - 🫶 Hobbies: sports, music, history and traveling
-
-## 🌎 Connect with me
-
-<a href="https://www.linkedin.com/in/vladimir-vancea-94803b75/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ## 📈 Stats
   
