@@ -6,7 +6,7 @@
 
 Curious by nature and always eager to explore new technologies. Believer in clean code and conscious web development. I have a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constanly questioning the status quo. 
 
-Steadily growing into backend development and recently into Jamstack. 
+Steadily growing into fullstack development and recently into Jamstack. 
 
 ## 🤓 More About Me
 
