@@ -11,9 +11,13 @@ Steadily growing into backend development and recently into Jamstack.
 ## 🤓 More About Me
 
 🗺️ Lived in 3 different countries and travelled to more than 30
+  
 🏠 Currently based in Bucharest, Romania
+  
 💬 Ask me about Web Development
+  
 📖 Learning about system design and Node.js
+  
 🫶 Hobbies: sports, music, history and traveling
 
 ## 🌎 Connect with me
