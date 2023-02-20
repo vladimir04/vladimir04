@@ -4,7 +4,7 @@
 
 9+ years of professional experience as a Frontend Developer. JavaScript expert and system design enthusiast. 
 
-I am curious by nature and always eager to explore new technologies. Believer in clean code and conscious web development. I have a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constanly questioning the status quo. 
+Curious by nature and always eager to explore new technologies. Believer in clean code and conscious web development. I have a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constanly questioning the status quo. 
 
 Steadily growing into backend development and recently into Jamstack. 
 
@@ -25,4 +25,6 @@ Steadily growing into backend development and recently into Jamstack.
 <a href="https://www.linkedin.com/in/vladimir-vancea-94803b75/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ## 📈 Stats
+  
+<img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir04&theme=darcula&hide_border=true&background=FFFFFF00">
 
