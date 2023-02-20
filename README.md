@@ -8,7 +8,7 @@ I am curious by nature and always eager to explore new technologies. Believer in
 
 Steadily growing into backend development and recently into Jamstack. 
 
-### 🤓 More About Me
+## 🤓 More About Me
 
 🗺️ Lived in 3 different countries and travelled to more than 30
 🏠 Currently based in Bucharest, Romania
@@ -16,9 +16,9 @@ Steadily growing into backend development and recently into Jamstack.
 📖 Learning about system design and Node.js
 🫶 Hobbies: sports, music, history and traveling
 
-### 🌎 Connect with me
+## 🌎 Connect with me
 
 <a href="https://www.linkedin.com/in/vladimir-vancea-94803b75/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-### 📈 Stats
+## 📈 Stats
 
