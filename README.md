@@ -16,7 +16,7 @@ Steadily growing into fullstack development and recently into Jamstack.
 
 <a href="https://www.linkedin.com/in/vladimir-vancea-94803b75/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
 
-## 🤓 More About Me
+## 🤓 More about me
 
 - 🗺️ Lived in 3 different countries and travelled to more than 30
 - 🏠 Currently based in Bucharest, Romania
