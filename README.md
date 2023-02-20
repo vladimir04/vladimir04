@@ -22,5 +22,5 @@ Steadily growing into fullstack development and recently into Jamstack.
 
 ## 📈 Stats
   
-<img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir04&theme=tokyonight">
+<img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir04&theme=tokyonight&hide_border=true&background=FFFFFF00">
 
