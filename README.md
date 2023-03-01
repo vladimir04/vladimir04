@@ -4,7 +4,7 @@
 
 9+ years of professional experience as a Frontend Developer. JavaScript expert and system design enthusiast. 
 
-Curious by nature and always eager to explore new technologies. Believer in clean code and conscious web development. I have a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constanly questioning the status quo. 
+Curious by nature and always eager to explore new technologies. Believer in clean code with a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constanly questioning the status quo. 
 
 Steadily growing into fullstack development and recently into Jamstack. 
 
