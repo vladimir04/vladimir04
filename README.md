@@ -4,9 +4,9 @@
 
 9+ years of professional experience as a Frontend Developer. JavaScript expert and system design enthusiast. 
 
-Curious by nature and always eager to explore new technologies. Believer in clean code with a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constanly questioning the status quo. 
+Curious by nature and always eager to explore new technologies. Believer in clean code with a strong passion for building scalable and efficient modern web applications. Able to switch between perfectionism and pragmatism and constantly questioning the status quo. 
 
-Steadily growing into fullstack development and recently into Jamstack. 
+Steadily growing into full-stack development and recently into Jamstack. 
 
 ## 🛠️ Skills
 
@@ -18,11 +18,11 @@ Steadily growing into fullstack development and recently into Jamstack.
 
 ## 🤓 More about me
 
-- 🗺️ Lived in 3 different countries and travelled to more than 30
+- 🗺️ Lived in 3 different countries and traveled to more than 30
 - 🏠 Currently based in Bucharest, Romania
 - 💬 Ask me about Web Development
 - 📖 Learning about system design and Node.js
-- 🫶 Hobbies: sports, music, history and traveling
+- 🫶 Hobbies: sports, music, history, and traveling
 
 ## 📈 Stats
   
