@@ -10,11 +10,13 @@ Steadily growing into full-stack development and recently into Jamstack.
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,angular,html,css,tailwind,jest,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,astro,nodejs,express,angular,html,css,tailwind,vite,jest,git)](https://skillicons.dev) 
  
 ## 🌎 Connect with me
 
 <a href="https://www.linkedin.com/in/vladimir-vancea-94803b75/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+
+<a href="https://vladimirvancea.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="vladimirvancea.com"></a>
 
 ## 🤓 More about me
 
@@ -24,7 +26,4 @@ Steadily growing into full-stack development and recently into Jamstack.
 - 📖 Learning about system design and Node.js
 - 🫶 Hobbies: sports, music, history, and traveling
 
-## 📈 Stats
-  
-<img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir04&theme=tokyonight&hide_border=true&background=FFFFFF00">
 
